@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(green,white)
+}
+#div{
+    width: 600px;
+    background-color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+}
+#submit{
+    color:white;
+    background-color: green;
+
+}
+#submit :hover {
+    background-color: blue;
+}
+#text{
+    border-radius: 10px;
+}
